@@ -1,6 +1,8 @@
+# Introduction to Git and GitHub
+
 ## Simple Interest Calculator
 
-This project contains a simple Python script to calculate the simple interest for a given principal, rate, and time.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 ```
 Input:
